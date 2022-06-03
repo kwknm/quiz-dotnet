@@ -1,5 +1,10 @@
 # Console Quiz App
 Quiz made in .NET Core 6
 
-№ Note
+# Note
 You can change quiz setting in 'Questions.json' file
+
+# Setup
+1. Download latest release https://github.com/kwknm/quiz-dotnet/releases
+2. Edit 'Questions.json' file
+3. Run 'Quiz.exe'
