@@ -2,7 +2,7 @@
 Quiz made in .NET Core 6
 
 # Note
-You can change quiz setting in 'Questions.json' file
+You can change quiz settings in 'Questions.json' file
 
 # Setup
 1. Download latest release https://github.com/kwknm/quiz-dotnet/releases
