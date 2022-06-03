@@ -1,0 +1,15 @@
+{
+	"title": "My Quiz",
+	"questions": [
+		{
+			"title": "Question title 1",
+			"answerOptions": ["123", "333", "444"],
+			"correctAnswerIndex": 1
+		},
+		{
+			"title": "Question title 2",
+			"answerOptions": ["555", "222", "000"],
+			"correctAnswerIndex": 2
+		}
+	]
+}
