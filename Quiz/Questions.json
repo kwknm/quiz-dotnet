@@ -2,14 +2,34 @@
 	"title": "My Quiz",
 	"questions": [
 		{
-			"title": "Question title 1",
-			"answerOptions": ["123", "333", "444"],
+			"title": "What does HTML stand for?",
+			"answerOptions": [
+				"Hyper Trainer Marking Language", 
+				"Hyper Text Marketing Language", 
+				"Hyper Text Markup Language",
+				"Hyper Text Markup Leveler"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"title": "In Java, a method is a container that holds classes.",
+			"answerOptions": ["True", "False"],
 			"correctAnswerIndex": 1
 		},
 		{
-			"title": "Question title 2",
-			"answerOptions": ["555", "222", "000"],
-			"correctAnswerIndex": 2
+			"title": "What is the correct way to write a comment in JavaScript?",
+			"answerOptions": [
+				"// This is a comment",
+				"* This is a comment", 
+				"** This is a comment",
+				"*** This is a comment"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"title": "<h1>Text</h1> is the correct way of making a header in HTML.",
+			"answerOptions": ["True", "False"],
+			"correctAnswerIndex": 0
 		}
 	]
 }
